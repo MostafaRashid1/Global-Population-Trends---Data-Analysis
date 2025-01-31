@@ -20,8 +20,3 @@ We analyze **population growth, density, and regional trends** from **1970 to 20
 - 📊 **Correlation:** Strong correlation between past and present population data.
 
 ---
-
-## 📈 **Visualizations**
-### **1️⃣ Population Growth by Continent**
-```python
-df2.plot(figsize=(20,7))
